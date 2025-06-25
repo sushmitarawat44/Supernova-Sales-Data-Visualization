@@ -2,7 +2,7 @@
 Power BI Dashboard – Superstore Sales Business Insights
 
 [dashboard png](https://github.com/user-attachments/assets/a41861d7-e445-458f-b29b-da788fc354a5)
-]
+
 
 🧾 Overview
 This Power BI report explores retail performance across U.S. states using the "Sample - Superstore" dataset. It leverages interactive charts and KPI cards to deliver actionable insights into sales, profit trends, customer behavior, discount impact, and shipping performance. The goal is to empower strategic business decisions with data-backed evidence.
